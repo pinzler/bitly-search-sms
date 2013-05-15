@@ -1,5 +1,4 @@
 # Bitly Search SMS with Twilio
-=================================================================================
 
 SMS a search term to a phone number and get the top Bitly Search result with title, source and a shortened link.  (Learn more about the Bitly APIs - [http://dev.bitly.com/](http://dev.bitly.com/).)
 
